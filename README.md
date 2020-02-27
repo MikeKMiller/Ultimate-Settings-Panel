@@ -11,3 +11,8 @@ The various links for Ultimate Settings Panel are below:
 - Instructions: https://blog.techygeekshome.info/ultimate-settings-panel-homepage/ultimate-settings-panel-instructions/
 - Video Demo (v5.6): https://www.youtube.com/embed/G5fBL_TSdbM
 - Screenshots (v6.1): https://blog.techygeekshome.info/ultimate-settings-panel-homepage/ultimate-settings-panel-screenshots
+
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/techygeekshome/Ultimate-Settings-Panel/badge.svg?style=beer-square)](https://beerpay.io/techygeekshome/Ultimate-Settings-Panel)  [![Beerpay](https://beerpay.io/techygeekshome/Ultimate-Settings-Panel/make-wish.svg?style=flat-square)](https://beerpay.io/techygeekshome/Ultimate-Settings-Panel?focus=wish)
